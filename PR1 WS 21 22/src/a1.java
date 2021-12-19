@@ -16,14 +16,6 @@ public class a1 {
 				+ "cm und eine Flaeche von " + flaeche + "cm^2");
 		System.out.println();
 
-		// Aufgabe 1c
-		double radius = 12.345;
-		double umfangkreis = 2 * radius * Math.PI;
-		double flaechekreis = Math.PI * (radius * radius);
-		System.out.printf("Ein Kreis mit Radius 12,345 cm hat einen Umfang von %.3f", umfangkreis);
-		System.out.printf(" cm und eine Flaeche von %.3f", flaechekreis);
-		System.out.print(" cm^2");
-		System.out.println();
 
 		// Aufgabe 1d
 		double temperatur = 39.8;
