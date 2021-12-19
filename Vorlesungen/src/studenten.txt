@@ -1,0 +1,9 @@
+1234;Hella Wahnsinn;IMB
+1235;Rainer Zufall;UIB
+1236;Anna Bolika;IMB
+1237;Axel Schweiss;IMB
+1238;Klara Fall;IB
+1239;Ali Gator;IB
+1240;Bob Fahren;IMB
+1241;Ellen Bogen;UIB
+1242;Eva Kuierung;UIB
