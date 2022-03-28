@@ -1,5 +1,5 @@
 
-public class a3abc {
+public class a3LinesColumnsMultiplication {
 
 	public static void main(String[] args) {
 
