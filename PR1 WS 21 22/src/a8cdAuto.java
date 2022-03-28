@@ -5,6 +5,7 @@ public class a8cdAuto {
     public String model;
     public int killometerstand;
     public static int counter = 0;
+    public static int anzahlHausern = 0;
     
     a8cdAuto (String zeichen, String mod, int stand){//Konstruktor
     	

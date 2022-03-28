@@ -1,7 +1,10 @@
 import java.io.IOException;
 
 public class a7aCharCounter {
-
+	/*
+	 * Schreiben Sie eine Methode, die zählt, wie oft ein bestimmtes Zeichen in
+	 * einem String vorkommt. Groß/Kleinschreibung soll dabei ignoriert werden.
+	 */
 	public static void main(String[] args) throws IOException {
 		
 		

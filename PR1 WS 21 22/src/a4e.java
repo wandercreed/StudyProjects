@@ -1,9 +1,13 @@
 import java.util.Arrays;
 
 public class a4e {
-
+	/*
+	 * Schreiben Sie ein Programm, das ein Wort "scrambled", d.h. die Buchstaben
+	 * zufällig vertauscht. Beispiel: Aus dem Wort "MANNHEIM" wird "IEHNAMNM".
+	 * Groß-/Kleinschreibung können Sie ignorieren.
+	 */
 	public static void main(String[] args) {
-		String text = "scrumbed";
+		String text = "SCRUMBLED";
 		
 		char[] chararray = text.toCharArray();
 		

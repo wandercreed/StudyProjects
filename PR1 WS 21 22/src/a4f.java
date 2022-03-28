@@ -1,7 +1,15 @@
 import java.util.Arrays;
 
 public class a4f {
-
+	/*
+	 * Setzen Sie nun Ihre Lösungen aus d) und e) zusammen und scramblen Sie die
+	 * römischen Kaiser. Sie können alle Namen klein schreiben. Richten Sie sich
+	 * nach folgendem Beispiel: gaius octavius augustus --> uigas uvacotis susuagut
+	 * tiberius caesar augustus --> sibtieru seacar gauustus gaius caesar augustus
+	 * germanicus --> suagi aseacr sutsuuag naregmicus tiberius claudius nero
+	 * germanicus --> suirbtie suiaclud nero nmregaicus nero claudius caesar
+	 * augustus germanicus --> oren iucladus aacesr suuaugst sucigerman
+	 */
 	public static void main(String[] args) {
     String[] Kaiserliste = {"Gaius Octavius Augustus",
     		"Tiberius Caeser Augustus",

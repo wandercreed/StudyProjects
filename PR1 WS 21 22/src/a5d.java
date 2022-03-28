@@ -4,7 +4,13 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class a5d {
-
+	/*
+	 * Schreiben Sie ein Programm, das die Datei "laborwerte.csv" (siehe Moodle)
+	 * einliest. Geben Sie für jede Zeile den Namen und den Durchschnitt der
+	 * nachfolgenden Werte aus. Glucose: 9 Werte, Durchschnitt 95,4 Thrombozyten: 3
+	 * Werte, Durchschnitt 211,7 Kalium: 5 Werte, Durchschnitt 4,0 Procalcitonin: 2
+	 * Werte, Durchschnitt 1,6
+	 */
 	public static void main(String[] args) throws FileNotFoundException {
 
 		ArrayList<String> test = new ArrayList<>();

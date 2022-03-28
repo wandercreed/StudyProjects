@@ -5,7 +5,11 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class a5b {
-
+	/*
+	 * Schreiben Sie ein Programm, das die beiden Dateien "namen1.txt" und
+	 * "namen2.txt" (siehe Moodle) zeilenweise vergleicht und nur diejenigen Zeilen
+	 * ausgibt, die sich unterscheiden.
+	 */
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner scanner = new Scanner(new File("src/namen1.txt"));
 		Scanner scanner2 = new Scanner(new File("src/namen2.txt"));

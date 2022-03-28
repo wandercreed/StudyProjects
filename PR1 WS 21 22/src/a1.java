@@ -32,8 +32,6 @@ public class a1 {
 		int zahl1f = 99;
 		int zahl2f = 17;
 
-		// int testresult1f = zahl1f % zahl2f;
-		// System.out.println(testresult1f);
 
 		int trueresult1f = zahl1f - (zahl1f / zahl2f) * zahl2f;
 		System.out.println("Teilt man " + zahl1f + " durch " + zahl2f + ", so bleibt ein Rest von " + trueresult1f);

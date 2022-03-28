@@ -1,7 +1,9 @@
 import java.util.Arrays;
 
 public class a4b {
-
+	/*schreiben Sie ein Programm, das ein Array mit 20 Zufallszahlen zwischen 1 und 100 anlegt.
+	Durchlaufen Sie das Array mit einer for-Schleife und ermitteln Sie die größte Zahl, indem Sie Zahlen
+	vergleichen. Dazu legen Sie sich eine Variable an, in der Sie die bisher größte Zahl speichern*/
 	public static void main(String[] args) {
 
 		int[] array = new int[20];

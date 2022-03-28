@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class a7b {
+public class a7bReadStringFromKeyboard {
 
 	public static void main(String[] args) {
 		
